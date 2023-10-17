@@ -1,5 +1,9 @@
-# INFRA-3DRC-Dataset
+# INFRA-3DRC Dataset
 This is the offical repository of INFRA-3DRC-Dataset, a public dataset comparised of 3D automotive Radar and RGB camera data generated using Intelligent roadside Infrastructure OR smart Infrastructure setup. It contains the dataset (to be downloaded using given links below), software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
+<br/>
+<br/>
+This work is supported by the Bavarian Ministry of Economic Affairs, Regional Development and Energy (StMWi), Germany within the Project “InFra — Intelligent Infrastructure.”   
+
 
 
 ## Overview
@@ -8,11 +12,10 @@ This is the offical repository of INFRA-3DRC-Dataset, a public dataset comparise
 - [License](#license)
 - [Dataset Format](#dataset-format)
 - [Dataset](#dataset)
-- [Annotations Format](#annotations-format)
+- [Annotation Format](#annotation-format)
 - [SDK User Guide](#sdk-user-guide)
-- [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
-- [Links](#links)
+- [References](#references)
 - [Contact](#contact)
 
 ---
@@ -20,7 +23,7 @@ This is the offical repository of INFRA-3DRC-Dataset, a public dataset comparise
 ## Introduction
 INFRA-3DRC-Dataset is the public dataset generated using smart infrastructure setup. It consists of calibrated, time-synchronized, and annotated sensor frames of 3D autotmotive radar and RGB mono-camera. Each radar frame contains point-wise annotation and each camera image is annotated in form of 2D bounding box(es). For completeness, calibrated and time-synchronized 3D lidar sensor frames are also included in the dataset, but these frames are not annotated.  
 <br />
-At present, dataset consists of 27 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. STATISTICS TO WRITE  
+At present, dataset consists of 27 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. STATISTICS TO WRITE  and 6 gifs to add in grid 
 
 ---
 
@@ -44,7 +47,7 @@ At present, dataset consists of 27 scenes recorded from different geographical l
 * The dataset and the associated code is realeased under the CC BY-NC 4.0. [See here](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
 * Under this license, it is allowed to download and use only for research, teaching, and academic purpose only.
 * Use of this dataset and associated code is prohibited to use for any commercial application.
-* If in case, it is needed for commercial demand, then kindly contact us (see bottom of this page). 
+* If in case, it is needed for commercial use, then kindly contact us (see bottom of this page). 
 
 ---
 
@@ -96,27 +99,30 @@ To download the dataset, refer the following page [DATASET-DOWNLOAD](docs/DOWNLO
 
 ---
 
-## Annotations Format
+## Annotation Format
 
-* Camera Annotations
+Dataset contains annotations of 3D automotive radar sensor and RGB camera images. For details refer the following page [ANNOTATION-DETAILS](docs/ANNOTATION_DETAILS.md)
 
 ---
 
 ## SDK User Guide
 
----
-
-## Acknowledgement
-
+For details about how to use SDK, various functions, and demo examples, ref the following page [SDK-USER-GUIDE](docs/SDK_USER_GUIDE.md)
 
 ---
 
 ## Citation
 
+to be added later
+
 ---
 
-## Links
+## References
+
+to be added later
 
 ---
 
 ## Contact Us
+
+to be added later
