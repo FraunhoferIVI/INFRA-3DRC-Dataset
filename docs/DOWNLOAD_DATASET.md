@@ -22,7 +22,7 @@ Dataset can be downloaded in parts (scene-wise) or in full.
 | scene_15 | four cars moving in two lanes in the same direction| multi-lane bidirectional straight road | twilight, clear sky | 94 | 0.67 | [Link](link) |
 | scene_16 | one car moving | multi-lane bidirectional straight road | twilight, clear sky | 83 | 0.55 | [Link](link) |
 | scene_17 | one bus moving | multi-lane bidirectional straight road | twilight, clear sky  | 42 | 0.3 | [Link](link) |
-| scene_18 | One bus and two cars moving in opposite lanes | multi-lane bidirectional straight road | twilight, clear sky | 137 | 0.0 | [Link](link) |
+| scene_18 | One bus and two cars moving in opposite lanes | multi-lane bidirectional straight road | twilight, clear sky | 137 | 0.93 | [Link](link) |
 | scene_19 | one adult, one bicycle | open parking | daylight, clear sky | 300 | 0.0 | [Link](link) |
 | scene_20 | one car, one person | open parking |  daylight, clear sky | 300 | 0.0 | [Link](link) |
 | scene_21 | one car, one bicycle | open parking |  daylight, clear sky | 300 | 0.0 | [Link](link) |
