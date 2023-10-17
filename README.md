@@ -34,7 +34,7 @@ At present, dataset consists of 27 scenes recorded from different geographical l
 
 | Sensor setup (in lab) | Sensor setup (at roadside) | Sensor coordinates |
 |---|---|---|
-|<img align= "center" src = "docs/sensor_setup_lab_.png" width = 200px>|<img align= "center" src = "docs/sensor_setup_roadside_.jpg" width = 200px>|<img align= "center" src = "docs/sensor_coordinates.png" width = 200px>|
+|<img align= "center" src = "docs/images/sensor_setup_lab.png" width = 200px>|<img align= "center" src = "docs/images/sensor_setup_roadside.jpg" width = 200px>|<img align= "center" src = "docs/images/sensor_coordinates.png" width = 200px>|
 |Copyright image|Copyright image|Copyright image|
 
 ---
