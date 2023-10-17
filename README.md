@@ -1,5 +1,5 @@
 # INFRA-3DRC-Dataset
-This is the offical repository of INFRA-3DRC-Dataset, a public dataset of 3D automotive Radar and RGB camera generated using Intelligent roadside /smart Infrastructure setup. It contains the dataset (to be downloaded using given links below), software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
+This is the offical repository of INFRA-3DRC-Dataset, a public dataset comparised of 3D automotive Radar and RGB camera data generated using Intelligent roadside Infrastructure OR smart Infrastructure setup. It contains the dataset (to be downloaded using given links below), software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
 
 ## Overview
 - [Introduction](#introduction)
@@ -12,8 +12,6 @@ This is the offical repository of INFRA-3DRC-Dataset, a public dataset of 3D aut
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
 - [Links](#links)
-<br>
-<br>
 
 ---
 
@@ -38,6 +36,7 @@ At present, dataset consists of 27 scenes recorded from different geographical l
 
 ## Smart Infrastructure sensors setup
 
+
 ---
 
 ## License
@@ -45,6 +44,45 @@ At present, dataset consists of 27 scenes recorded from different geographical l
 ---
 
 ## Dataset Format
+```---
+  ├── scene_01
+    ├── camera_01
+      ├── camera_01__annotation: contains json files for each camera image
+      ├── camera_01__data: contains png files of camera images
+    ├── radar_01
+      ├── radar_01__annotation: contains json files for each radar frame
+      ├── radar_01__data: contains pcd files for each radar frame
+    ├── lidar_01
+      ├── lidar_01__data: contains pcd files for each lidar frame
+    ├── calibration.json: contains extrinsic and intrinsic calibration matrix
+    └── scene.json: contains meta-data of the scene
+```
+```---
+  ├── scene_02
+    ├── camera_01
+      ├── camera_01__annotation: contains json files for each camera image
+      ├── camera_01__data: contains png files of camera images
+    ├── radar_01
+      ├── radar_01__annotation: contains json files for each radar frame
+      ├── radar_01__data: contains pcd files for each radar frame
+    ├── lidar_01
+      ├── lidar_01__data: contains pcd files for each lidar frame
+    ├── calibration.json: contains extrinsic and intrinsic calibration matrix
+    └── scene.json: contains meta-data of the scene
+```
+```---
+  ├── scene_03
+    ├── camera_01
+      ├── camera_01__annotation: contains json files for each camera image
+      ├── camera_01__data: contains png files of camera images
+    ├── radar_01
+      ├── radar_01__annotation: contains json files for each radar frame
+      ├── radar_01__data: contains pcd files for each radar frame
+    ├── lidar_01
+      ├── lidar_01__data: contains pcd files for each lidar frame
+    ├── calibration.json: contains extrinsic and intrinsic calibration matrix
+    └── scene.json: contains meta-data of the scene
+```
 
 ---
 
