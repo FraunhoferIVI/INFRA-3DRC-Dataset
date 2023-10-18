@@ -1,5 +1,5 @@
 # INFRA-3DRC Dataset
-This is the offical repository of INFRA-3DRC-Dataset, a public dataset comparised of 3D automotive Radar and RGB camera data generated using Intelligent roadside Infrastructure OR smart Infrastructure setup. It contains the dataset (to be downloaded using given links below), software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
+This is the offical repository of INFRA-3DRC Dataset, a public dataset comparised of 3D automotive Radar and RGB camera data generated using Intelligent roadside Infrastructure (also known as smart Infrastructure) setup. It contains the links to download dataset, software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
 <br/>
 <br/>
 This work is supported by the Bavarian Ministry of Economic Affairs, Regional Development and Energy (StMWi), Germany within the Project “InFra — Intelligent Infrastructure.”   
@@ -21,7 +21,7 @@ This work is supported by the Bavarian Ministry of Economic Affairs, Regional De
 ---
 
 ## Introduction
-INFRA-3DRC-Dataset is the public dataset generated using smart infrastructure setup. It consists of calibrated, time-synchronized, and annotated sensor frames of 3D autotmotive radar and RGB mono-camera. Each radar frame contains point-wise annotation and each camera image is annotated in form of 2D bounding box(es). For completeness, calibrated and time-synchronized 3D lidar sensor frames are also included in the dataset, but these frames are not annotated.  
+INFRA-3DRC Dataset is the public dataset generated using smart infrastructure setup. It consists of calibrated, time-synchronized, and annotated sensor frames of 3D autotmotive radar and RGB mono-camera. Each radar frame contains point-wise annotation and each camera image is annotated in form of 2D bounding box(es). For completeness, calibrated and time-synchronized 3D lidar sensor frames are also included in the dataset, but these frames are not annotated.  
 <br />
 At present, dataset consists of 27 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. STATISTICS TO WRITE  and 6 gifs to add in grid 
 
