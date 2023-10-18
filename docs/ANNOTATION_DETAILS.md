@@ -71,3 +71,8 @@ The rest of the points from background (including unwanted users) are assigned a
     * **height**: 1 
     * **points**: total radar points in the frame. Redundunt to width
 * object instance information
+    * **category id**: refer above table 
+    * **instance id**: unique id given if multiple objects of same category are found in same radar frame.
+    * **det id**: unique id in each frame, used to associate annotations in camera and radar. Annotation with same det id in radar and camera are from same object in that particular synchronized sensor frames.
+    * **points**: list of points arranged as per fields given above. All the points in the list belong to the same object.
+* Background points - all the radar points which are not part of any valid road user are grouped together under "background" in the json file.
