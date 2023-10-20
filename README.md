@@ -107,7 +107,7 @@ Dataset contains annotations of 3D automotive radar sensor and RGB camera images
 
 ## SDK User Guide
 
-For details about how to use SDK, various functions, and demo examples, ref the following page [SDK-USER-GUIDE](docs/SDK_USER_GUIDE.md)
+Software development Kit (SDK) to use this dataset is available in the [GITHUB-REPO](https://github.com/FraunhoferIVI/INFRA-3DRC-Dataset). Further, for details about how to use this SDK, various functions, and demo examples, refer the following page [SDK-USER-GUIDE](docs/SDK_USER_GUIDE.md)
 
 ---
 
