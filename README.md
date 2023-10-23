@@ -25,12 +25,11 @@ INFRA-3DRC Dataset is the public dataset generated using smart infrastructure se
 <br />
 At present, dataset consists of 25 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. STATISTICS TO WRITE  and 6 gifs to add in grid 
 
-<img src="docs/gifs/01.gif" width="30%"></img> 
-<img src="docs/gifs/01.gif" width="30%"></img> 
-<img src="docs/gifs/01.gif" width="30%"></img> 
-<img src="docs/gifs/01.gif" width="30%"></img> 
-<img src="docs/gifs/01.gif" width="30%"></img> 
-<img src="docs/gifs/01.gif" width="30%"></img> 
+<img src="docs/gifs/01.gif" width="45%"></img> 
+<img src="docs/gifs/01.gif" width="45%"></img> 
+<img src="docs/gifs/01.gif" width="45%"></img> 
+<img src="docs/gifs/01.gif" width="45%"></img> 
+
 
 ---
 
