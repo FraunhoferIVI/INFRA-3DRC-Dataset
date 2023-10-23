@@ -23,7 +23,14 @@ This work is supported by the Bavarian Ministry of Economic Affairs, Regional De
 ## Introduction
 INFRA-3DRC Dataset is the public dataset generated using smart infrastructure setup. It consists of calibrated, time-synchronized, and annotated sensor frames of 3D autotmotive radar and RGB mono-camera. Each radar frame contains point-wise annotation and each camera image is annotated in form of 2D bounding box(es). For completeness, calibrated and time-synchronized 3D lidar sensor frames are also included in the dataset, but these frames are not annotated.  
 <br />
-At present, dataset consists of 27 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. STATISTICS TO WRITE  and 6 gifs to add in grid 
+At present, dataset consists of 25 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. STATISTICS TO WRITE  and 6 gifs to add in grid 
+
+<img src="docs/gifs/01.gif" width="30%"></img> 
+<img src="docs/gifs/01.gif" width="30%"></img> 
+<img src="docs/gifs/01.gif" width="30%"></img> 
+<img src="docs/gifs/01.gif" width="30%"></img> 
+<img src="docs/gifs/01.gif" width="30%"></img> 
+<img src="docs/gifs/01.gif" width="30%"></img> 
 
 ---
 
