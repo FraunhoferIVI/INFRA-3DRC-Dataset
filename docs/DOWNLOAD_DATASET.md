@@ -23,14 +23,12 @@ Dataset can be downloaded in parts (scene-wise) or in full.
 | scene_16 | one car moving | multi-lane bidirectional straight road | twilight, clear sky | 83 | 0.55 | [Link](link) |
 | scene_17 | one bus moving | multi-lane bidirectional straight road | twilight, clear sky  | 42 | 0.3 | [Link](link) |
 | scene_18 | One bus and two cars moving in opposite lanes | multi-lane bidirectional straight road | twilight, clear sky | 137 | 0.93 | [Link](link) |
-| scene_19 | one adult, one bicycle | open parking | daylight, clear sky | 300 | 0.0 | [Link](link) |
-| scene_20 | one car, one person | open parking |  daylight, clear sky | 300 | 0.0 | [Link](link) |
-| scene_21 | one car, one bicycle | open parking |  daylight, clear sky | 300 | 0.0 | [Link](link) |
-| scene_22 | to be decided | multi-lane bidirectional straight road | night, clear sky | 400 | 0.0 | [Link](link) |
-| scene_23 | to be decided | multi-lane bidirectional straight road | night, clear sky | 400 | 0.0 | [Link](link) |
-| scene_24 | to be decided | multi-lane bidirectional straight road | night, clear sky | 400 | 0.0 | [Link](link) |
-| scene_25 | to be decided | multi-lane bidirectional straight road | night, clear sky | 400 | 0.0 | [Link](link) |
-| scene_26 | to be decided | multi-lane bidirectional straight road | night, clear sky | 400 | 0.0 | [Link](link) |
-| scene_27 | to be decided | multi-lane bidirectional straight road | night, clear sky | 400 | 0.0 | [Link](link) |
+| scene_19 | One adult and one bicycle moving | open parking | daylight, clear sky | 108 | 0.82 | [Link](link) |
+| scene_20 | One adult crosses the road, one car drives towards crossing and stops | open parking |  daylight, clear sky | 89 | 0.67 | [Link](link) |
+| scene_21 | One bicycle crossing the road, one car drives towards crossing, waits for some time and then drives. | open parking |  daylight, clear sky | 101 | 0.75 | [Link](link) |
+| scene_22 | Two buses and two cars moving on the road in same direction | multi-lane bidirectional straight road | night, clear sky | 114 | 0.67 | [Link](link) |
+| scene_23 | Two cars moving in same direction | multi-lane bidirectional straight road | night, clear sky | 99 | 0.49 | [Link](link) |
+| scene_24 | One bus moving | multi-lane bidirectional straight road | night, clear sky | 118 | 0.58 | [Link](link) |
+| scene_25 | Two cars moving in opposite directions | multi-lane bidirectional straight road | night, clear sky | 100 | 0.5 | [Link](link) |
 
 #### To download complete dataset - [Link](link)
