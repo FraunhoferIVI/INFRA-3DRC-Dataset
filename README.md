@@ -53,7 +53,7 @@ At present, dataset consists of 27 scenes recorded from different geographical l
 
 ## Dataset Format
 ```---
-  ├── scene_01
+  ├── INFRA-3DRC_scene-01
     ├── camera_01
       ├── camera_01__annotation - contains json files for each camera image
       ├── camera_01__data - contains png files of camera images
@@ -65,7 +65,7 @@ At present, dataset consists of 27 scenes recorded from different geographical l
     ├── calibration.json - contains extrinsic and intrinsic calibration matrix
     └── scene.json - contains meta-data of the scene
 
-  ├── scene_02
+  ├── INFRA-3DRC_scene-02
     ├── camera_01
       ├── camera_01__annotation
       ├── camera_01__data
@@ -78,7 +78,7 @@ At present, dataset consists of 27 scenes recorded from different geographical l
     └── scene.json
 .....
 
-  ├── scene_N
+  ├── INFRA-3DRC_scene-NN
     ├── camera_01
       ├── camera_01__annotation
       ├── camera_01__data
