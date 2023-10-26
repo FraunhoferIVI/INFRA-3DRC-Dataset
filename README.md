@@ -2,7 +2,10 @@
 This is the offical repository of INFRA-3DRC Dataset, a public dataset comparised of 3D automotive Radar and RGB camera data generated using Intelligent roadside Infrastructure (also known as smart Infrastructure) setup. It contains the links to download dataset, software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
 <br/>
 <br/>
-This work is supported by the Bavarian Ministry of Economic Affairs, Regional Development and Energy (StMWi), Germany within the Project “InFra — Intelligent Infrastructure.”   
+This work is supported by the Bavarian Ministry of Economic Affairs, Regional Development and Energy (StMWi), Germany within the Project “InFra — Intelligent Infrastructure.” 
+<br/>
+<br/>
+Disclaimer: In order to comply with European GDPR data privacy, the RGB camera images are annonymized to hide human faces and vehicle number plates in the camera images where this information was clearly visible. In other frames, where the information is self annonymized due to distance from camera, no annonymization is applied. For this purpose, the state-of-the-art algorithms known best to the knowledge of the developer are used.
 
 
 
@@ -28,12 +31,12 @@ Dataset consists of 25 scenes recorded from different geographical locations in 
 Some examples of the dataset are shown below.  
 <br/>
 
-<img src="docs/gifs/INFRA-3DRC_scene-03.gif" width="47%">
-<img src="docs/gifs/INFRA-3DRC_scene-04.gif" width="47%">
-<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="47%">
-<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="47%">
-<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="47%">
-<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="47%"> 
+<img src="docs/gifs/INFRA-3DRC_scene-03.gif" width="45%">
+<img src="docs/gifs/INFRA-3DRC_scene-04.gif" width="45%">
+<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="45%">
+<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="45%">
+<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="45%">
+<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="45%"> 
 
 
 ---
