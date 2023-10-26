@@ -23,12 +23,17 @@ This work is supported by the Bavarian Ministry of Economic Affairs, Regional De
 ## Introduction
 INFRA-3DRC Dataset is the public dataset generated using smart infrastructure setup. It consists of calibrated, time-synchronized, and annotated sensor frames of 3D autotmotive radar and RGB mono-camera. Each radar frame contains point-wise annotation and each camera image is annotated in form of 2D bounding box(es). For completeness, calibrated and time-synchronized 3D lidar sensor frames are also included in the dataset, but these frames are not annotated.  
 <br />
-At present, dataset consists of 25 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. STATISTICS TO WRITE  and 6 gifs to add in grid 
+Dataset consists of 25 scenes recorded from different geographical locations in different light conditions - day light, twilight and night. It contains total 2768 frames of each camera, radar, and lidar sensors. Camera annotations have 4172 instances and radar annotations have 4074 instances of total six object categories - adult, group, bicycle, motorcycle, car, and bus. It contains 22966 labeled points of radar data of valid traffic road users.   
 
-<img src="docs/gifs/01.gif" width="45%"></img> 
-<img src="docs/gifs/01.gif" width="45%"></img> 
-<img src="docs/gifs/01.gif" width="45%"></img> 
-<img src="docs/gifs/01.gif" width="45%"></img> 
+Some examples of the dataset are shown below.  
+<br/>
+
+<img src="docs/gifs/INFRA-3DRC_scene-03.gif" width="45%"></img> 
+<img src="docs/gifs/INFRA-3DRC_scene-04.gif" width="45%"></img> 
+<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="45%"></img> 
+<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="45%"></img> 
+<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="45%"></img> 
+<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="45%"></img> 
 
 
 ---
@@ -45,7 +50,6 @@ At present, dataset consists of 25 scenes recorded from different geographical l
 |---|---|---|
 |<img align= "center" src = "docs/images/sensor_setup_lab.png" width = 200px>|<img align= "center" src = "docs/images/sensor_setup_roadside.jpg" width = 200px>|<img align= "center" src = "docs/images/sensor_coordinates.png" width = 200px>|
 |Copyright image|Copyright image|Copyright image|
-
 ---
 
 ## License
