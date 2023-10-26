@@ -28,12 +28,12 @@ Dataset consists of 25 scenes recorded from different geographical locations in 
 Some examples of the dataset are shown below.  
 <br/>
 
-<img src="docs/gifs/INFRA-3DRC_scene-03.gif" width="45%"></img> 
-<img src="docs/gifs/INFRA-3DRC_scene-04.gif" width="45%"></img> 
-<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="45%"></img> 
-<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="45%"></img> 
-<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="45%"></img> 
-<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="45%"></img> 
+<img src="docs/gifs/INFRA-3DRC_scene-03.gif" width="47%">
+<img src="docs/gifs/INFRA-3DRC_scene-04.gif" width="47%">
+<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="47%">
+<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="47%">
+<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="47%">
+<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="47%"> 
 
 
 ---
