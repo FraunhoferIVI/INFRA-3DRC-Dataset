@@ -30,7 +30,7 @@ Dataset consists of 25 scenes recorded from different geographical locations in 
 
 Some examples of the dataset are shown below.  
 <br/>
-<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="80%">
+<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="80%" >
 <img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="80%">
 <img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="80%">
 <img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="80%"> 
@@ -46,9 +46,10 @@ Some examples of the dataset are shown below.
 
 * All the sensors are mounted on the extendable tripod for modular and flexible data collection.
 * Below images are subject to copyright.
-<br/>
-<img src="docs/images/setup.PNG" width="80%">
 
+<p align="center">
+<img  src="docs/images/setup.png" width="80%" />
+</p>
 ---
 
 ## License
