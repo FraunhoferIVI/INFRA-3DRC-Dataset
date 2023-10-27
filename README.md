@@ -31,10 +31,10 @@ Dataset consists of 25 scenes recorded from different geographical locations in 
 Some examples of the dataset are shown below.  
 <br/>
 
-<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="80%" align = "center">
-<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="80%" align = "center">
-<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="80%" align = "center">
-<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="80%" align = "center"> 
+<p align="center"> <img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="90%" alt="twilight scene"/> </p>
+<p align="center"> <img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="90%" alt = "day time pedestrain crossing junction scene"/> </p>
+<p align="center"> <img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="90%" alt = "night time scene"/> </p>
+<p align="center"> <img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="90%" alt = "open parking scene"/> </p>
 
 
 ---
