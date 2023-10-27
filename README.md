@@ -49,7 +49,7 @@ Some examples of the dataset are shown below.
 * Below images are subject to copyright.
 
 <p align="center">
-<img  src="docs/images/setup.png" width="80%" />
+<img  src="docs/images/setup.png" width="90%" />
 </p>
 
 ---
