@@ -30,13 +30,10 @@ Dataset consists of 25 scenes recorded from different geographical locations in 
 
 Some examples of the dataset are shown below.  
 <br/>
-
-<img src="docs/gifs/INFRA-3DRC_scene-03.gif" width="45%">
-<img src="docs/gifs/INFRA-3DRC_scene-04.gif" width="45%">
-<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="45%">
-<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="45%">
-<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="45%">
-<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="45%"> 
+<img src="docs/gifs/INFRA-3DRC_scene-13.gif" width="80%">
+<img src="docs/gifs/INFRA-3DRC_scene-15.gif" width="80%">
+<img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="80%">
+<img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="80%"> 
 
 
 ---
@@ -48,11 +45,10 @@ Some examples of the dataset are shown below.
   * 3D-Lidar (Ouster OS1-64 channels),
 
 * All the sensors are mounted on the extendable tripod for modular and flexible data collection.
+* Below images are subject to copyright.
+<br/>
+<img src="docs/images/setup.PNG" width="80%">
 
-| Sensor setup (in lab) | Sensor setup (at roadside) | Sensor coordinates |
-|---|---|---|
-|<img align= "center" src = "docs/images/sensor_setup_lab.png" width = 200px>|<img align= "center" src = "docs/images/sensor_setup_roadside.jpg" width = 200px>|<img align= "center" src = "docs/images/sensor_coordinates.png" width = 200px>|
-|Copyright image|Copyright image|Copyright image|
 ---
 
 ## License
