@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "infra-3drc"
-version = "1.0"
+version = "1.0.2"
 description = "This is the SDK to extract and perform various operations using INFRA-3DRC public dataset"
 authors = ["Shiva Agrawal <shiva.agrawal@thi.de>", "Savankumar Bhanderi <savankumar.bhanderi@thi.de>"]
 readme = "docs/SDK_USER_GUIDE.md"
+repository = "https://github.com/FraunhoferIVI/INFRA-3DRC-Dataset"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
