@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "infra-3drc"
-version = "0.1.3"
+version = "0.1.4"
 description = "This is the SDK to extract and perform various operations using INFRA-3DRC public dataset"
 authors = ["Shiva Agrawal <shiva.agrawal@thi.de>", "Savankumar Bhanderi <savankumar.bhanderi@thi.de>"]
 readme = "docs/SDK_USER_GUIDE.md"

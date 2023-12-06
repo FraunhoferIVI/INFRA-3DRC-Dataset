@@ -191,14 +191,3 @@ class Infra3DRC:
         return s
 
     __repr__ = __str__
-
-
-if __name__ == "__main__":
-    dataset_root = "/media/ros/F0900DE5900DB360/infra_3drc/INFRA-3DRC-Dataset"
-    scene = Infra3DRC(dataset_root=dataset_root, scene_number=7)
-
-    for frame in scene:
-        radar_projected_image = frame.visualise_radar_cloud_on_camera()
-        # cv2.imshow("frame", radar_projected_image)
-        # cv2.waitKey(0)
-        # exit(1)

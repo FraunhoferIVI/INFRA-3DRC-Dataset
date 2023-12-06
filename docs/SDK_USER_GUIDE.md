@@ -1,6 +1,6 @@
 # Installation
-This library is provided by pypi, so you can install the current stable version using pip:
-
+This library is provided by pypi, so you can install the current stable version using pip.  
+We recommend to install the package using virtual environment to avoid dependency conflicts with your available system.
 ```bash
 pip install infra-3drc
 ```
@@ -100,6 +100,8 @@ for frame_idx, frame in enumerate(Infra3DRC_scene):
 For more information on working with numpy recarrays, please visit the [official numpy documentation](https://numpy.org/doc/stable/reference/generated/numpy.recarray.html).
 
 ## Visualising the point cloud on image plane.
+
+__**NOTE: For closing the opencv window, either press 'q' on keyboard or click 'X' on top right corner of the window.**__
 
 To visualise radar or lidar point cloud on image plane, run the following code: 
 
