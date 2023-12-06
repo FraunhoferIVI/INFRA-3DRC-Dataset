@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "infra-3drc"
+version = "0.1.0"
+description = "This is the SDK ver1.0 to extract and perform various operations using INFRA-3DRC public dataset"
+authors = ["Shiva Agrawal", "Savankumar Bhanderi"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+matplotlib = "3.4.3"
+numpy = "1.21.2"
+opencv-contrib-python = "4.5.5.64"
+opencv-python = "4.6.0.66"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.4.3"
+requests-mock = "^1.11.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
