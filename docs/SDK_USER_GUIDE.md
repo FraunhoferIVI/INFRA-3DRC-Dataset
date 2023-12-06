@@ -27,7 +27,7 @@ Infra3DRC_scene = Infra3DRC(dataset_root, scene_number)
 scene_path = "/path/to/single/scene"
 # Scene number must be None when providing path to single scene folder.
 scene_number = None 
-Infra3DRC_scene = Infra3DRC(dataset_root, scene_number)
+Infra3DRC_scene = Infra3DRC(scene_path, scene_number)
 ```
 ## Accesing calibration information from the scene.
 The Infra3DRC class has an atribute **calibration** that allows user to access the calibration information for the scene.
