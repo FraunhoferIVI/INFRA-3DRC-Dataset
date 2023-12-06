@@ -36,7 +36,6 @@ Some examples of the dataset are shown below.
 <p align="center"> <img src="docs/gifs/INFRA-3DRC_scene-18.gif" width="90%" alt = "night time scene"/> </p>
 <p align="center"> <img src="docs/gifs/INFRA-3DRC_scene-21.gif" width="90%" alt = "open parking scene"/> </p>
 
-
 ---
 
 ## Smart Infrastructure sensors setup
@@ -54,12 +53,10 @@ Some examples of the dataset are shown below.
 
 ---
 
-## License
-
-* The dataset and the associated code is realeased under the CC BY-NC 4.0. [See here](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
-* Under this license, it is allowed to download and use only for research, teaching, and academic purpose only.
-* Use of this dataset and associated code is prohibited to use for any commercial application.
-* If in case, it is needed for commercial use, then kindly contact us (see bottom of this page). 
+## SDK User Guide
+SDK as python package can be downloaded from [infra-3drc on pypi](https://pypi.org/project/infra-3drc/).  
+The associated source code is hosted at [GITHUB-REPO](https://github.com/FraunhoferIVI/INFRA-3DRC-Dataset).  
+SDK user guide with examples is available at [SDK-USER-GUIDE](docs/SDK_USER_GUIDE.md).
 
 ---
 
@@ -117,9 +114,12 @@ Dataset contains annotations of 3D automotive radar sensor and RGB camera images
 
 ---
 
-## SDK User Guide
+## License
 
-Software development Kit (SDK) to use this dataset is available in the [GITHUB-REPO](https://github.com/FraunhoferIVI/INFRA-3DRC-Dataset). Further, for details about how to use this SDK, various functions, and demo examples, refer the following page [SDK-USER-GUIDE](docs/SDK_USER_GUIDE.md)
+* The dataset and the associated code is realeased under the CC BY-NC 4.0. [See here](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+* Under this license, it is allowed to download and use only for research, teaching, and academic purpose only.
+* Use of this dataset and associated code is prohibited to use for any commercial application.
+* If in case, it is needed for commercial use, then kindly contact us (see bottom of this page). 
 
 ---
 
@@ -129,12 +129,7 @@ to be added later
 
 ---
 
-## References
-
-to be added later
-
----
-
 ## Contact Us
 
-to be added later
+Shiva Agrawal <shiva.agrawal@thi.de>  
+Savankumar Bhanderi <savankumar.bhanderi@thi.de>  

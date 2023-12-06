@@ -1,9 +1,19 @@
-# USAGE
+# Installation
+This library is provided by pypi, so you can install the current stable version using pip:
+
+```bash
+pip install infra-3drc
+```
+see [infra-3drc on pypi](https://pypi.org/project/infra-3drc/)
+
+The source code and the INFRA-3DRC public dataset is hosted at [INFRA-3DRC Dataset](https://github.com/FraunhoferIVI/INFRA-3DRC-Dataset)
+
+# Usage Examples
 
 ## Creating Infra3DRC object for the given scene.
 
 ```python
-from Infra3DRC import Infra3DRC
+from infra_3drc import Infra3DRC
 
 # Please do not rename the folder after downloading the dataset. 
 # Use this code snippet if you have downloaded entire dataset.
@@ -151,3 +161,13 @@ The ground truth annotations for the Frame object can be visualised using the fo
 display = True
 annotated_image = frame.draw_annotations(display=display)
 ```
+
+# License
+
+**infra-3drc** python package is realeased under the CC BY-NC 4.0. license [See here](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+
+
+# Authors / Contributors
+
+Shiva Agrawal, <shiva.agrawal@thi.de>  
+Savankumar Bhanderi, <savankumar.bhanderi@thi.de>
