@@ -131,5 +131,5 @@ to be added later
 
 ## Contact Us
 
-Shiva Agrawal <shiva.agrawal@thi.de>  
-Savankumar Bhanderi <savankumar.bhanderi@thi.de>  
+Shiva Agrawal, <shiva.agrawal@thi.de>  
+Savankumar Bhanderi, <savankumar.bhanderi@thi.de>  
