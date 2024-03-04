@@ -1,0 +1,26 @@
+{
+   "location": "Ingolstadt, Germany",
+   "weather": "Normal",
+   "day_light": "day",
+   "description": "One adult crosses the road, one car drives towards crossing and stops",
+   "info": [
+      {
+         "sensor": "camera_01",
+         "raw_data_format": ".png",
+         "annotation_format": ".json",
+         "sensor_model": "ids CP-5260 rev 2 with 8 mm lens C-mount"
+      },
+      {
+         "sensor": "radar_01",
+         "raw_data_format": ".pcd",
+         "annotation_format": ".json",
+         "sensor_model": "continental LRR ARS548"
+      },
+      {
+         "sensor": "lidar_01",
+         "raw_data_format": ".pcd",
+         "sensor_model": "Ouster OS1-64 channels"
+      }
+   ],
+   "total_frames_count": 89
+}

@@ -3,6 +3,10 @@
 
 Dataset can be downloaded in parts (scene-wise) or in full. 
 
+ATTENTION - SOME TEMPORARY BUG FIXES IN 2 FILES OF DATASET
+* For scene_18, after donwloading the dataset, replace the downloaded **calibration.json** by this file - [calibration.json](/docs/fixes/calibration.json)
+* For scene_20, after donwloading the dataset, replace the downloaded **scene.json** by this file - [scene.json](/docs/fixes/scene.json)
+
 | scene | description | location | outside conditions | frames | size (GB) | Download |
 |---|---|---|---|---|---|---|
 | scene_01 | one bicycle crossing the traffic light junction | pedestrain crossing junction with traffic light | daylight, clear sky | 102 | 0.7 | [Link](https://fordatis.fraunhofer.de/retrieve/b5dcb0fd-b1b7-48f2-95be-4e4456b0a8fb/INFRA-3DRC_scene-01.zip) |
@@ -32,3 +36,4 @@ Dataset can be downloaded in parts (scene-wise) or in full.
 | scene_25 | Two cars moving in opposite directions | multi-lane bidirectional straight road | night, clear sky | 100 | 0.5 | [Link](https://fordatis.fraunhofer.de/retrieve/5bf14b70-3e2f-40cf-9e60-52b7c8167c07/INFRA-3DRC_scene-25.zip) |
 
 ### To download complete dataset (13.4 GB)- [Link](https://fordatis.fraunhofer.de/bitstream/fordatis/355/26/INFRA-3DRC-Dataset.zip) 
+
