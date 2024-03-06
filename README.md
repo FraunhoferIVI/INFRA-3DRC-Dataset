@@ -1,5 +1,5 @@
 # INFRA-3DRC Dataset
-This is the offical repository of INFRA-3DRC Dataset, a public dataset comparised of 3D automotive Radar and RGB camera data generated using Intelligent roadside Infrastructure (also known as smart Infrastructure) setup. It contains the links to download dataset, software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
+This is the offical repository of [INFRA-3DRC Dataset](https://ieeexplore.ieee.org/document/10459049), a public dataset comparised of 3D automotive Radar and RGB camera data generated using Intelligent roadside Infrastructure (also known as smart Infrastructure) setup. It contains the links to download dataset, software development kit (SDK) to read and perform basic functions on the dataset, and related documentation.
 <br/>
 <br/>
 This work is supported by the Bavarian Ministry of Economic Affairs, Regional Development and Energy (StMWi), Germany within the Project “InFra — Intelligent Infrastructure.” 
@@ -10,16 +10,17 @@ Disclaimer: In order to comply with European GDPR data privacy, the RGB camera i
 
 
 ## Overview
-- [Introduction](#introduction)
-- [Smart Infrastructure sensors setup](#smart-infrastructure-sensors-setup)
-- [License](#license)
-- [Dataset Format](#dataset-format)
-- [Dataset](#dataset)
-- [Annotation Format](#annotation-format)
-- [SDK User Guide](#sdk-user-guide)
-- [Citation](#citation)
-- [References](#references)
-- [Contact](#contact)
+- [INFRA-3DRC Dataset](#infra-3drc-dataset)
+  - [Overview](#overview)
+  - [Introduction](#introduction)
+  - [Smart Infrastructure sensors setup](#smart-infrastructure-sensors-setup)
+  - [SDK User Guide](#sdk-user-guide)
+  - [Dataset Format](#dataset-format)
+  - [Dataset](#dataset)
+  - [Annotation Format](#annotation-format)
+  - [License](#license)
+  - [Citation](#citation)
+  - [Contact Us](#contact-us)
 
 ---
 
@@ -125,8 +126,17 @@ Dataset contains annotations of 3D automotive radar sensor and RGB camera images
 
 ## Citation
 
-to be added later
-
+```
+@ARTICLE{10459049,
+  author={Agrawal, Shiva and Bhanderi, Savankumar and Elger, Gordon},
+  journal={IEEE Access}, 
+  title={Semi-automatic annotation of 3D Radar and Camera for Smart Infrastructure-based perception}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2024.3373310}}
+```
 ---
 
 ## Contact Us
