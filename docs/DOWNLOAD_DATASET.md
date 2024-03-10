@@ -7,13 +7,8 @@ Dataset can be downloaded in parts (scene-wise) or in full.
 * **For scene_18**, after downloading the dataset, only replace the downloaded **calibration.json** by this file - [calibration.json](/docs/fixes/calibration.json)
 * **For scene_20**, after downloading the dataset, only replace the downloaded **scene.json** by this file - [scene.json](/docs/fixes/scene.json)
 
-* **For all the scenes**, in each **calibration.json** file the correct extrinsic calibration matrix for ```lidar_01_to_ground```  is
+* **For all the scenes**, in each **calibration.json** file the correct extrinsic calibration matrix for ```lidar_01_to_ground```  is ```[ [1,0,0,0], [0,1,0,0], [0,0,1,3.5] ]```
 
-    $\left[\begin{array}{cccc}
-    1 & 0 & 0 & 0\\
-    0 & 1 & 0 & 0\\
-    0 & 0 & 1 & 3.5
-    \end{array}\right]$
 
 
 | scene | description | location | outside conditions | frames | size (GB) | Download |
