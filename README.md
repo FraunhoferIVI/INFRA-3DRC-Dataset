@@ -130,12 +130,12 @@ Dataset contains annotations of 3D automotive radar sensor and RGB camera images
 @ARTICLE{10459049,
   author={Agrawal, Shiva and Bhanderi, Savankumar and Elger, Gordon},
   journal={IEEE Access}, 
-  title={Semi-automatic annotation of 3D Radar and Camera for Smart Infrastructure-based perception}, 
+  title={Semi-Automatic Annotation of 3D Radar and Camera for Smart Infrastructure-Based Perception}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={12},
+  pages={34325-34341},
   doi={10.1109/ACCESS.2024.3373310}}
+
 ```
 ---
 
