@@ -3,9 +3,18 @@
 
 Dataset can be downloaded in parts (scene-wise) or in full. 
 
-ATTENTION - SOME TEMPORARY BUG FIXES IN 2 FILES OF DATASET
-* For scene_18, after donwloading the dataset, replace the downloaded **calibration.json** by this file - [calibration.json](/docs/fixes/calibration.json)
-* For scene_20, after donwloading the dataset, replace the downloaded **scene.json** by this file - [scene.json](/docs/fixes/scene.json)
+<span style="color:red"> ATTENTION - SOME TEMPORARY BUG FIXES </span>
+* **For scene_18**, after downloading the dataset, only replace the downloaded **calibration.json** by this file - [calibration.json](/docs/fixes/calibration.json)
+* **For scene_20**, after downloading the dataset, only replace the downloaded **scene.json** by this file - [scene.json](/docs/fixes/scene.json)
+
+* **For all the scenes**, in each **calibration.json** file the correct extrinsic calibration matrix for ```lidar_01_to_ground```  is
+
+    $\left[\begin{array}{cccc}
+    1 & 0 & 0 & 0\\
+    0 & 1 & 0 & 0\\
+    0 & 0 & 1 & 3.5
+    \end{array}\right]$
+
 
 | scene | description | location | outside conditions | frames | size (GB) | Download |
 |---|---|---|---|---|---|---|
@@ -37,3 +46,6 @@ ATTENTION - SOME TEMPORARY BUG FIXES IN 2 FILES OF DATASET
 
 ### To download complete dataset (13.4 GB)- [Link](https://fordatis.fraunhofer.de/bitstream/fordatis/355/26/INFRA-3DRC-Dataset.zip) 
 
+<span style="color:red"> ATTENTION - SOME TEMPORARY BUG FIXES IN 2 FILES OF DATASET </span>
+* <span style="color:red">For scene_18 </span>, after downloading the dataset, only replace the downloaded **calibration.json** by this file - [calibration.json](/docs/fixes/calibration.json)
+* <span style="color:red">For scene_20 </span>, after downloading the dataset, only replace the downloaded **scene.json** by this file - [scene.json](/docs/fixes/scene.json)
