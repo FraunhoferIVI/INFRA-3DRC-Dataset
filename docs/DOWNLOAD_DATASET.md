@@ -44,3 +44,5 @@ Dataset can be downloaded in parts (scene-wise) or in full.
 <span style="color:red"> ATTENTION - SOME TEMPORARY BUG FIXES IN 2 FILES OF DATASET </span>
 * <span style="color:red">For scene_18 </span>, after downloading the dataset, only replace the downloaded **calibration.json** by this file - [calibration.json](/docs/fixes/calibration.json)
 * <span style="color:red">For scene_20 </span>, after downloading the dataset, only replace the downloaded **scene.json** by this file - [scene.json](/docs/fixes/scene.json)
+  
+* **For all the scenes**, in each **calibration.json** file the correct extrinsic calibration matrix for ```lidar_01_to_ground```  is  ```[ [1,0,0,0], [0,1,0,0], [0,0,1,3.5] ]```
