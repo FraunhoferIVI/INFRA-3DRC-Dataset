@@ -137,6 +137,20 @@ Dataset contains annotations of 3D automotive radar sensor and RGB camera images
   doi={10.1109/ACCESS.2024.3373310}}
 
 ```
+
+```
+@misc{infra_3drc,
+  author = {Shiva Agrawal and  Savankumar Bhanderi},
+  title = {INFRA-3DRC dataset},
+  version = {1.0.0},
+  year = {2024},
+  url = {https://github.com/FraunhoferIVI/INFRA-3DRC-Dataset},
+  orcid = {0000-0001-8633-341X, 0000-0001-7257-6736},
+  doi = {10.24406/fordatis/297},
+  license = {CC BY-NC 4.0}
+}
+```
+
 ---
 
 ## Contact Us
