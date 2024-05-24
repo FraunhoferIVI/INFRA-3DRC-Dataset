@@ -33,7 +33,7 @@
     * **name**: refer above table 
     * **det id**: unique id in each frame, used to associate annotations in camera and radar. Annotation with same det id in radar and camera are from same object in that particular synchronized sensor frames.
     * **track id**: unique id of the object in the complete scene
-    * **bbox**: 2D Bounding of the object defined in COCO format - [x top left corner, y top left corner, height, width] pixels 
+    * **bbox**: 2D Bounding of the object defined in COCO format - [x top left corner, y top left corner, width, height] pixels 
 
 There is also some other information given in camera json files regarding license, dataset name, version, etc., but it is not required to work with dataset.
 
